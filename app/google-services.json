@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "440207824284",
+    "firebase_url": "https://android-gtm-1da2e.firebaseio.com",
+    "project_id": "android-gtm-1da2e",
+    "storage_bucket": "android-gtm-1da2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440207824284:android:2c06e3cf4380716f",
+        "android_client_info": {
+          "package_name": "com.mackittipat.mactagmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440207824284-pu93llcocikh68br0q591926ogqepn6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpQPFj6D534hKzvYTKkAd6jMRNgVSPO44"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
